@@ -6,3 +6,4 @@ lênhn giups tạo một phiên bản giúp tạo một sự thay đổi đã x�
 Lênh
 Lệnh giúp kết nối remote repo với local repo : git remote add ỏigin ( url cảu remote repo)
 Lệnh giúp đẩy code từ local repo lên remote repo : 2 trường hợp xảy ra nếu là lần đầu tiên từ local repo đẩy lên gitthub thí sẽ là git push -u origin ( tên nhánh )
+Lệnh giúp clone ( lấy một bản sao ) một dự án từ trên gitthub về máy tính : git clone ( url đường dẫn trên gitthub)
