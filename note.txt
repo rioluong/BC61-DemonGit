@@ -1,0 +1,2 @@
+Khởi tạo thư mục dự án thành local reposivetory  : git init
+Sử dụng lệnh để đưa các file và các sự thay đỏi lên khu vực staging area: git add
